@@ -59,7 +59,7 @@ projeto_final/
 
 
 ### Protótipo (Figma)
-![Figma - Página Inicial](img/figma_index.png)
+![Figma - Página Inicial](img/inicio_figma.png)
 ![Figma - Página de Contato](img/figma_index.png)
 ![Figma - Página de Detalhes (Exemplo)](img/figma_index.png)
 
