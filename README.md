@@ -29,7 +29,7 @@ Entrega: publicação no **GitHub Pages** com link do repositório e README.
 ---
 
 ## Estrutura de pastas (modelo)
-projeto_final/
+/projeto_final/
 ├── index.html
 ├── contato.html
 ├── msc/
