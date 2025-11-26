@@ -67,3 +67,21 @@ projeto_final/
 ![Site - Página Inicial](img/inicio_projeto.png)
 ![Site - Página de Contato](img/contato_projeto.png)
 ![Site - Página de Detalhes (Exemplo)](img/detalhes_projeto.png)
+
+
+## 🎨 Semelhanças e Diferenças entre o Protótipo (Figma) e o Site Final (HTML/CSS)
+
+### ✅ Semelhanças
+- Estrutura principal das páginas foi mantida (header, conteúdo e footer).
+- Os cards da página inicial seguem o mesmo formato previsto no protótipo.
+- As páginas possuem navegação igual ao layout do Figma.
+- O posicionamento dos elementos respeita o que foi planejado no design inicial.
+- O conteúdo segue o mesmo padrão do design no Figma.
+
+### ⚠️ Diferenças
+- A paleta de cores muda o padrão definido no Figma.
+- Algumas imagens precisaram ser ajustadas para tamanhos mais adequados ao layout final.
+- Diferenças de espaçamento/margens devido à adaptação prática no CSS.
+- Tipografia pode variar conforme a fonte disponível no navegador.
+- Alguns elementos foram simplificados para manter o site mais responsivo.
+- No Figma havia efeitos mais visuais (sombras, gradientes, etc.) que foram adaptados para CSS puro.
