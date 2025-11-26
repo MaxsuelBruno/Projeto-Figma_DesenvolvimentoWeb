@@ -60,10 +60,10 @@ projeto_final/
 
 ### Protótipo (Figma)
 ![Figma - Página Inicial](img/inicio_figma.png)
-![Figma - Página de Contato](img/figma_index.png)
-![Figma - Página de Detalhes (Exemplo)](img/figma_index.png)
+![Figma - Página de Contato](img/contato_figma.png)
+![Figma - Página de Detalhes (Exemplo)](img/detalhes_figma.png)
 
 ### Implementação (HTML/CSS)
-![Site - Página Inicial](img/site_index.png)
-![Site - Página de Contato](img/site_index.png)
-![Site - Página de Detalhes (Exemplo)](img/site_index.png)
+![Site - Página Inicial](img/inicio_projeto.png)
+![Site - Página de Contato](img/contato_projeto.png)
+![Site - Página de Detalhes (Exemplo)](img/detalhes_projeto.png)
